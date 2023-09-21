@@ -1,0 +1,28 @@
+.navbar{
+    position: sticky;
+    width: 100%;
+    top: 0;
+    z-index: 4;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+    margin-left: 3px;
+}
+.cart-count{
+    background-color: #CF0A0A;
+    color: white;
+    padding: 2px 4px;
+    border-radius: 100px;
+    font-size: 10px;
+    position: relative;
+    top: -10px;
+    left: -7px;
+}
+.logo{
+    font-weight: bolder;
+    font-size: 50px;
+    font-style:italic;
+    
+}

@@ -1,0 +1,11 @@
+.categories{
+    background-color: #212529;
+    margin-bottom: 40px;
+    padding-top: 15px;
+}
+
+.categories ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}

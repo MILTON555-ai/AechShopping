@@ -1,0 +1,331 @@
+{
+    "electronics": [
+        {
+            "id": 1,
+            "title": "boAt Airdopes 131 RTL",
+            "price": 1999,
+            "img": "images/boatairpods.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Noise TWS Buds Ace ",
+            "price": 1999,
+            "img": "images/Noise.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Apple AirPods Pro",
+            "price": 26000,
+            "img": "images/airpod.webp"
+        },
+        {
+            "id": 4,
+            "title": "Apple Watch SE",
+            "price": 31999,
+            "img": "images/applewatch.webp"
+        },
+        {
+            "id": 5,
+            "title": "Apple iPhone 14 ",
+            "price": 80999,
+            "img": "images/iphone.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Apple MacBook Air Laptop",
+            "price": 90999,
+            "img": "images/mackbook.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Samsung Galaxy S22 Ultra ",
+            "price": 101999,
+            "img": "images/samsungs22.webp"
+        },
+        {
+            "id": 8,
+            "title": "Google Pixel 7 5G",
+            "price": 61999,
+            "img": "images/pixel.webp"
+        },
+        {
+            "id": 9,
+            "title": "Sony WH-1000XM4",
+            "price": 29990,
+            "img": "images/sony.webp"
+        }
+    ],
+    "fashion": [
+        
+        {
+            "id": 1,
+            "title": "Printed Men Round Neck Green T-Shirt",
+            "price": 699,
+            "img": "images/rn.webp",
+            "category":"men"
+        },
+        {
+            "id": 2,
+            "title": "Printed Men Round Neck Green T-Shirt ",
+            "price": 599,
+            "img": "images/prn2.webp",
+            "category":"men"
+        },
+        {
+            "id": 3,
+            "title": "Printed Men Round Neck Green T-Shirt",
+            "price": 26000,
+            "img": "images/rn.webp",
+            "category":"men"
+        },
+        {
+            "id": 4,
+            "title": "Men Slim Fit Solid Spread Collar Casual Shirt",
+            "price": 31999,
+            "img": "images/shirt1.webp",
+            "category":"men"
+        },
+        {
+            "id": 5,
+            "title": "Men Slim Fit Solid Spread Collar Casual Shirt ",
+            "price": 80999,
+            "img": "images/shirt2.webp",
+            "category":"men"
+        },
+        {
+            "id": 6,
+            "title": "Men Slim Fit Solid Spread Collar Casual Shirt",
+            "price": 90999,
+            "img": "images/shirt3.webp",
+            "category":"men"
+        },
+        {
+            "id": 7,
+            "title": "SPrinted Women Round Neck Pink T-Shirt ",
+            "price": 101999,
+            "img": "images/wdr.webp",
+            "category":"women"
+        },
+        {
+            "id": 8,
+            "title": "Printed Women Round Neck Pink T-Shirt",
+            "price": 61999,
+            "img": "images/wdr2.webp",
+            "category":"women"
+        },
+        {
+            "id": 9,
+            "title": "Printed Women Round Neck Pink T-Shirt",
+            "price": 29990,
+            "img": "images/wdr3.webp",
+            "category":"women"
+        },
+        {
+            "id": 10,
+            "title": "Printed Women Round Neck Pink T-ShirtL",
+            "price": 1999,
+            "img": "images/wdr4.webp",
+            "category":"women"
+        },
+        {
+            "id": 11,
+            "title": "Printed Women Round Neck Pink T-Shirt",
+            "price": 1999,
+            "img": "images/kdr.webp",
+            "category":"women"
+        },
+        {
+            "id": 12,
+            "title": "Printed Women Round Neck Pink T-Shirt ",
+            "price": 1999,
+            "img": "images/kdr2.webp",
+            "category":"kid"
+        },
+        {
+            "id": 13,
+            "title": "Boys Striped Pure Cotton T Shirt",
+            "price": 26000,
+            "img": "images/kdr3.webp",
+            "category":"kid"
+        },
+        {
+            "id": 14,
+            "title": "Boys Striped Pure Cotton T Shirt",
+            "price": 31999,
+            "img": "images/kdr5.webp",
+            "category":"kid"
+        },
+        {
+            "id": 15,
+            "title": "Boys Striped Pure Cotton T Shirt ",
+            "price": 80999,
+            "img": "images/kdr6.webp",
+            "category":"kid"
+        }
+        
+        
+    ],
+    "men": [
+        
+        {
+            "id": 1,
+            "title": "Printed Men Round Neck Green T-Shirt",
+            "price": 699,
+            "img": "images/rn.webp",
+            "category":"men"
+        },
+        {
+            "id": 2,
+            "title": "Printed Men Round Neck Green T-Shirt ",
+            "price": 599,
+            "img": "images/prn2.webp",
+            "category":"men"
+        },
+        {
+            "id": 3,
+            "title": "Printed Men Round Neck Green T-Shirt",
+            "price": 26000,
+            "img": "images/rn.webp",
+            "category":"men"
+        },
+        {
+            "id": 4,
+            "title": "Men Slim Fit Solid Spread Collar Casual Shirt",
+            "price": 31999,
+            "img": "images/shirt1.webp",
+            "category":"men"
+        },
+        {
+            "id": 5,
+            "title": "Men Slim Fit Solid Spread Collar Casual Shirt ",
+            "price": 80999,
+            "img": "images/shirt2.webp",
+            "category":"men"
+        },
+        {
+            "id": 6,
+            "title": "Men Slim Fit Solid Spread Collar Casual Shirt",
+            "price": 90999,
+            "img": "images/shirt3.webp",
+            "category":"men"
+        }
+    ],
+    "women": [
+        
+        {
+            "id": 1,
+            "title": "Wonen green solid V Neck sleeves",
+            "price": 1699,
+            "img": "images/w1.webp",
+            "category":"women"
+        },
+        {
+            "id": 2,
+            "title": "Golden color wedding dress",
+            "price": 2599,
+            "img": "images/w2.jpg",
+            "category":"women"
+        },
+        {
+            "id": 3,
+            "title": "Milkyway floral printed dress",
+            "price": 6000,
+            "img": "images/w3.png",
+            "category":"women"
+        },
+        {
+            "id": 4,
+            "title": "Sporty style dress",
+            "price": 3999,
+            "img": "images/w4.webp",
+            "category":"women"
+        },
+        {
+            "id": 5,
+            "title": "Dubai moroccan ababic dress ",
+            "price": 999,
+            "img": "images/w5.jpg",
+            "category":"women"
+        },
+        {
+            "id": 6,
+            "title": "Fashion women Autumn",
+            "price": 2999,
+            "img": "images/w6.jpg",
+            "category":"women"
+        },{
+            "id": 7,
+            "title": "Walk Fashion onway dress ",
+            "price": 899,
+            "img": "images/w7.jpg",
+            "category":"women"
+        },
+        {
+            "id": 8,
+            "title": "Costal vacay tropical dress",
+            "price": 9999,
+            "img": "images/w8.webp",
+            "category":"women"
+        }
+    ],   
+    "kids": [
+        
+        {
+            "id": 1,
+            "title": "Autumn baby girls dress",
+            "price": 1699,
+            "img": "images/k1.jpg",
+            "category":"kids"
+        },
+        {
+            "id": 2,
+            "title": "Clothing wear for kids ",
+            "price": 2599,
+            "img": "images/k2.jpg",
+            "category":"kids"
+        },
+        {
+            "id": 3,
+            "title": "kids shoulder dress ",
+            "price": 6000,
+            "img": "images/k3.png",
+            "category":"kids"
+        },
+        {
+            "id": 4,
+            "title": "Pari kids wear ",
+            "price": 3999,
+            "img": "images/k4.jpg",
+            "category":"kids"
+        },
+        {
+            "id": 5,
+            "title": "Chuldren sleevless dress green ",
+            "price": 999,
+            "img": "images/k5.jpg",
+            "category":"kids"
+        },
+        {
+            "id": 6,
+            "title": "girl puff sleeve princess dress",
+            "price": 2999,
+            "img": "images/k6.jpg",
+            "category":"kids"
+        },{
+            "id": 7,
+            "title": "Silk design dress for kids ",
+            "price": 899,
+            "img": "images/k7.webp",
+            "category":"kids"
+        },
+        {
+            "id": 8,
+            "title": "Party wear fancy kids dress",
+            "price": 9999,
+            "img": "images/k8.jpg",
+            "category":"kids"
+        }
+    ]
+}
+
+
